@@ -1,0 +1,8 @@
+go 1.23.1
+
+use (
+	./01_basic
+	./02_empty_struct
+	./03_better_set
+	./04_json_conversion
+)
